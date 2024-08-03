@@ -1,8 +1,8 @@
-## Selected projects in data science, machine learning and NLP
+##  What can Alternative fuel Stations tell us about fuel Distribution in USA, North America?
 
 ---
 
-### Deep NLP for hate speech detection
+### Project Brief
 
 The Alternative Fuels Data Center (AFDC) maintains collects and stores data on alternative fueling stations near you or on a route, and more. In this project, I explore this data and derive meaningful information through a using cluster algorithm that can provide you insights to inform your car fuel model purchase or driving decisions, not excluding business cases.
 
