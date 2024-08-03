@@ -14,7 +14,7 @@ The Alternative Fuels Data Center (AFDC) maintains collects and stores data on a
 
 ### Examining Fuel Station Distribution by Fuel Code and State, using the clean data
 Electric stations(ELEC) indicate the highest record while hydrogen stations(HY) indicate the least number of records in the dataset. States with highest number of Stations include California with  > 800 electric stations
-and Minnesota with almost 300 E85 fuel stations. 
+and Minnesota with almost 300 E85 fuel stations.  
 
 <img src="images/mobility.png?raw=true" />
 
