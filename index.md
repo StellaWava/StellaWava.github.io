@@ -50,8 +50,12 @@ View code on Github
 ### Optimal Placement Analysis: Using Cluster Analysis
 The project purpose is to apply a well known algorithm to understand our data.I used K-Means clustering methods to identify clusters of current stations and then analyze gaps. Additionally, demand prediction was handled using regression models.
 
-Figure 5: 
+**Figure 5: Clusters of Fuel Stations across the Contiguous USA**
 <img src="images/station_clusters.png?raw=true"/>
+
+In Figure 6, I determined the areas with low coverage where new fuel stations would very suitable. This prediction however, only relies on the current clusters but inclusion of datasets such as traffic and population would enhance the model to provide more precise locations for station placement. 
+**Figure 6: Optimal areas for New Station Placement**
+<img src="images/new_station_suggest.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
