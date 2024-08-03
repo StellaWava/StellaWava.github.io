@@ -1,4 +1,4 @@
-##  What can Alternative fuel Stations tell us about fuel Distribution in USA, North America?
+##  What about Alternative fuel Stations and fuel Distribution in USA, North America?
 
 ---
 
@@ -40,9 +40,9 @@ View code on Github
 
 ### Examining the Trend of Establishment: How the number of stations for each type of fuel has changed over time.
 These stations have been established since the 1970's. However, a larger volume of stations was established beginning of 2010. According to figure 4. Energy preference is EV hence ELEC stations are seen skyrocketing beginning 2010. 
-<img src="images/overtime11.png?raw=true" /> <img src="images/overtime22.png?raw=true" />
-Figure 4: Fuel Stations by code over time
 
+**Figure 4: Fuel Stations by code over time**
+<img src="images/overtime11.png?raw=true" /> <img src="images/overtime22.png?raw=true" />
 
 View code on Github
 ---
@@ -59,12 +59,11 @@ In Figure 6, I determined the areas with low coverage where new fuel stations wo
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-
 ---
 
 ### Predicting Establishment trend for ELEC Fuel Stations: Forecasting Future Trends for New Station Openings.
 Using the prophet model, I predicted the  future trends in station openings of the ELEC stations since these stations indicate a larger opening volume since 2010. 
-Figure 7 indicates that there will be reletively a low establishment trend compared to the historic establishment trend. 
+**Figure 7 indicates that there will be reletively a low establishment trend compared to the historic establishment trend.** 
 <img src="images/elecforecast.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
