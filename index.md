@@ -40,7 +40,7 @@ View code on Github
 
 ### Examining the Trend of Establishment: How the number of stations for each type of fuel has changed over time.
 These stations have been established since the 1970's. However, a larger volume of stations was established beginning of 2010. According to figure 4. Energy preference is EV hence ELEC stations are seen skyrocketing beginning 2010. 
-<img src="images/overtime.jpg?raw=true" />
+<img src="images/overtime2.jpg?raw=true" />
 
 
 
