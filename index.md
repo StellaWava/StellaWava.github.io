@@ -48,13 +48,14 @@ View code on Github
 ---
 
 ### Optimal Placement Analysis: Using Cluster Analysis
-The project purpose is to apply a well known algorthm to understand our data.I used K-Means clustering methods to identify clusters of current stations and then analyze gaps. Additionally, demand prediction was handled using regression models.
+The project purpose is to apply a well known algorithm to understand our data.I used K-Means clustering methods to identify clusters of current stations and then analyze gaps. Additionally, demand prediction was handled using regression models.
 
-<img src="images/london2.png?raw=true"/>
+Figure 5: 
+<img src="images/station_clusters.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-View code on Colab
+View code on Github
 
 ---
 
@@ -69,16 +70,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 
 ---
 
-### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
-In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
 
-<!-- <img src="images/random_intercept.png?raw=true"/> -->
-
-[![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
-
-View code on Github
-
----
 
 ## Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
@@ -98,8 +90,6 @@ A selection of smaller projects demonstrating specific data science and ML skill
 
 
 
-<!-- ### Did lockdowns influence the types of music people were listening to?
-COVID-19 has created an ostensible paradox in the music industry. In the four months after the World Health Organisation declared COVID-19 a pandemic on March 11, 2020, digital music streaming providers such as Spotify and Apple saw their share prices soar by 114% and 49% respectively (Google 2021b). Over the same period, however, worldwide digital music consumption dropped by an average of 12.5% (Sim et al. 2021). One of the reasons which has been suggested for this drop is the decline in certain types of mobility - especially driving, which accounts for 29% of music consumption, and commuting, as 54% of commuters listen to music while commuting (Nielsen 2015, 2017; Sim et al. 2021). What remains unclear, however, is whether and how changes to levels of mobility influenced the types of music to which people were listening. In this project, I investigate these questions using the Spotify API.
 
 <img src="images/spotify.png?raw=true" />
 
@@ -124,17 +114,9 @@ If you have any questions, feel free to drop me an [email](mailto:mattchapmanmsc
 
 Thanks for reading,
 
-Matt
+Stellaamaris
 
 ---
  -->
  
-<!--  ### Using BERT and Naïve Bayes models for helpfulness prediction of Amazon reviews
-The quality and helpfulness of online reviews can vary greatly, meaning readers must often sift through a deluge of online reviews in order to find the most relevant ones. In this project, I compared the performance of various ML models for predicting the helpfulness of an Amazon review given its text and metadata.  
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Amazon-white?logo=Amazon)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/19N1n117gN_qHPVd8VqqRDur5v8z0tANY?usp=sharing)
-
----
  -->
