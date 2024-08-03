@@ -49,8 +49,8 @@ Figure 4: Fuel Stations by code over time
 View code on Github
 ---
 
-### Geospatial analysis of deprivation in London
-In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
+### Optimal Placement Analysis: Using Cluster Analysis
+The project purpose is to apply a well known algorthm to understand our data.I used K-Means clustering methods to identify clusters of current stations and then analyze gaps. Additionally, demand prediction was handled using regression models.
 
 <img src="images/london2.png?raw=true"/>
 
