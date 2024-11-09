@@ -3,7 +3,9 @@
 ### WEB-SCRAPING
 In this project,I am exploiting the web crawling frameworks of scrapy, and requests packages to create custom pipelines to extract Airquality geospatial data from the EPA AirNow AirQuality monitoring website. The site host a vast amount of data, but the pipeline utilises the simplest workflow to collect and store data including FeatureClasses for data science investigation taks.
 All code and processing were executed with Vscode IDE.
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
+
 [View code on Github]([https://github.com/StellaWava/StellaWava.github.io/blob/core/projects/fuels.ipynb](https://github.com/StellaWava/web-scrapping))
 
 
