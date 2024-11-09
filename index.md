@@ -1,7 +1,7 @@
 ##  DATA PROCESSING
 ---
 ### WEB-SCRAPING
-
+In this project,I am exploiting the web crawling frameworks of scrapy, and requests packages to create custom pipelines to extract Airquality geospatial data from the EPA AirNow AirQuality monitoring website. The site host a vast amount of data, but the pipeline utilises the simplest workflow to collect and store data including FeatureClasses for data science investigation taks.
 
 
 ##  What about Alternative fuel Stations and fuel Distribution in USA, North America?
