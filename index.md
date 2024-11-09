@@ -7,6 +7,7 @@ All code and processing were executed with Vscode IDE.
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
 
 [View request approach on Github](https://github.com/StellaWava/web-scrapping/blob/main/AirNow1.py)
+
 [View scrapy approach on Github](https://github.com/StellaWava/web-scrapping/blob/main/dpgis/dpgis/spiders/sample.py)
 
 
