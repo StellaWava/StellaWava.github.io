@@ -5,7 +5,7 @@ In this project,I am exploiting the web crawling frameworks of scrapy, and reque
 All code and processing were executed with Vscode IDE.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
-[View code on Github](https://github.com/StellaWava/web-scrapping)
+[View code on Github](https://github.com/StellaWava/web-scrapping/blob/main/AirNow1.py)
 
 
 
