@@ -5,8 +5,8 @@ In this project,I am exploiting the web crawling frameworks of scrapy, and reque
 All code and processing were executed with Vscode IDE.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
+[View code on Github](https://github.com/StellaWava/web-scrapping)
 
-[View code on Github]([https://github.com/StellaWava/StellaWava.github.io/blob/core/projects/fuels.ipynb](https://github.com/StellaWava/web-scrapping))
 
 
 ##  What about Alternative fuel Stations and fuel Distribution in USA, North America?
