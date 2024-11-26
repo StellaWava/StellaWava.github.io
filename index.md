@@ -10,6 +10,20 @@ All code and processing were executed with Vscode IDE.
 
 [View scrapy approach on Github](https://github.com/StellaWava/web-scrapping/blob/main/dpgis/dpgis/spiders/sample.py)
 
+### BIG DATA SYSTEMS & ARCHITECTURE
+#### COVID-19 Data Engineering System: Real-Time & Batch Processing with Machine Learning Integration
+As part of a class project, I designed and implemented a comprehensive data engineering system to analyze COVID-19 incident records and evaluate the impact of lockdown policies. The system aimed to provide actionable insights to policymakers and emergency responders by combining real-time and batch data processing with advanced analytics and visualization.
+The architecture included:
+- *Apache Kafka*: for event brokering and real-time data ingestion.
+- *Hadoop HDFS and Apache Spark*: for real-time data preprocessing and cleaning.
+- *Cloud Storage and BigQuery* for robust data storage and warehousing.
+- *Looker Studio* for interactive dashboards and visualization.
+- *Vertex AI* for developing, training, and deploying a machine learning pipeline, leveraging _boosted trees_ for predictive modeling
+Code and processing were executed with Vscode IDE, GCP UI & CLI.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
+
+[View request approach on Github](https://github.com/BabaGeniz/CSC-525-Project)
 
 
 ##  What about Alternative fuel Stations and fuel Distribution in USA, North America?
