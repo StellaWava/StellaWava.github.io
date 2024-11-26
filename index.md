@@ -23,7 +23,7 @@ Code and processing were executed with Vscode IDE, GCP UI & CLI.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
 
-[View request approach on Github](https://github.com/BabaGeniz/CSC-525-Project)
+[View code on Github](https://github.com/BabaGeniz/CSC-525-Project)
 
 
 ##  What about Alternative fuel Stations and fuel Distribution in USA, North America?
