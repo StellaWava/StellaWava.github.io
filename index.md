@@ -1,6 +1,6 @@
 ##  DATA PROCESSING
----
-### WEB-SCRAPING
+
+### Web Scraping
 In this project,I exploited the web crawling frameworks of scrapy, and requests packages to create custom pipelines to extract Airquality geospatial data from the EPA AirNow AirQuality monitoring website. The site host a vast amount of data, but the pipeline utilises the simplest workflow to collect and store data including FeatureClasses for data science investigation taks.
 All code and processing were executed with Vscode IDE.
 
@@ -9,8 +9,10 @@ All code and processing were executed with Vscode IDE.
 [View request approach on Github](https://github.com/StellaWava/web-scrapping/blob/main/AirNow1.py)
 [View scrapy approach on Github](https://github.com/StellaWava/web-scrapping/blob/main/dpgis/dpgis/spiders/sample.py)
 
-### BIG DATA SYSTEMS & ARCHITECTURE
 ---
+
+### BIG DATA SYSTEMS & ARCHITECTURE
+
 #### COVID-19Data Engineering System: How efficient were lock-down policies towards mitigating deaths?
 The COVID-19 pandemic remains the pandemic of the century claiming over 7 million lives and leaving mostly many countries in devastating economic recessions.  In this project, I designed and implemented a comprehensive data engineering system to analyze post COVID-19 incident records and evaluate the efficiency of [lockdown policies](https://ourworldindata.org/metrics-explained-covid19-stringency-index) to mitigate deaths during through the period. Designed using GCP cloud resources, the system combined real-time and batch data processing to create advanced analytics and visualizations for actionable insights. Results indicated that only *China* total lockdown policy was effective in cubbing death rates. 
 Tools used: *Apache Kafka*,*Hadoop HDFS, Apache Spark*, *Cloud Storage and BigQuery*, *Looker Studio*, and *Vertex AI* for autoML(boosted_trees).
@@ -25,17 +27,15 @@ Code and processing were executed with Vscode IDE, GCP UI & CLI.
 
 [View code and other results on Github](https://github.com/StellaWava/CSC-525-Project/tree/main)
 
-
-## DATA ENGINEERING & MINING 
 ---
+## DATA ENGINEERING & MINING 
+
 ### What about Alternative fuel Stations and fuel Distribution in USA, North America?
 
 The Alternative Fuels Data Center (AFDC) maintains collects and stores data on alternative fueling stations near you or on a route, and more. In this project, I explore this data and derive meaningful information through a using cluster algorithm that can provide you insights to inform your car fuel model purchase or driving decisions, not excluding business cases.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 [View code on Github](https://github.com/StellaWava/StellaWava.github.io/blob/core/projects/fuels.ipynb)
-
----
 
 ### Examining Fuel Station Distribution by Fuel Code and State, using the clean data
 Electric stations(ELEC) indicate the highest record while hydrogen stations(HY) indicate the least number of records in the dataset. States with highest number of Stations include California with  > 800 electric stations
@@ -48,8 +48,6 @@ and Minnesota with almost 300 ethanol and gasoline (E85) fuel stations.
 
 View code on Github
 
----
-
 ### What Level of Charging do Electric (ELEC) StationS provide?: A deep dive into the types of charging and connectors the electric vehicles have access to. 
 
 The ELEC stations provide EV Connector Type J1772 with 2740 Level 2 charging hence the modest EV connector type used by these fuel stations.  Figure 3 displays the distribution of EV charging stations across the contiguous United States. Los Angeles, California has the highest record of EV level 2 charging stations. See Figure 3.
@@ -61,8 +59,6 @@ The ELEC stations provide EV Connector Type J1772 with 2740 Level 2 charging hen
 
 View code on Github
 
----
-
 ### Examining the Trend of Establishment: How the number of stations for each type of fuel has changed over time.
 These stations have been established since the 1970's. However, a larger volume of stations was established beginning of 2010. According to figure 4. Energy preference is EV hence ELEC stations are seen skyrocketing beginning 2010. 
 
@@ -70,7 +66,6 @@ These stations have been established since the 1970's. However, a larger volume 
 <img src="images/overtime11.png?raw=true" /> <img src="images/overtime22.png?raw=true" />
 
 View code on Github
----
 
 ### Optimal Placement Analysis: Using Cluster Analysis
 The project purpose is to apply a well known algorithm to understand our data.I used K-Means clustering methods to identify clusters of current stations and then analyze gaps. Additionally, demand prediction was handled using regression models.
@@ -83,8 +78,6 @@ In Figure 6, I determined the areas with low coverage where new fuel stations wo
 <img src="images/new_station_suggest.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
-
----
 
 ### Predicting Establishment trend for ELEC Fuel Stations: Forecasting Future Trends for New Station Openings.
 Using the prophet model, I predicted the  future trends in station openings of the ELEC stations since these stations indicate a larger opening volume since 2010. 
