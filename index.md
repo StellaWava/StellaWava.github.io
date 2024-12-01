@@ -21,7 +21,9 @@ US vs UK vs China
 <img src="https://github.com/user-attachments/assets/78deed0f-b599-4f28-922b-c1e7ba357ac4" width="300">
 
 Code and processing were executed with Vscode IDE, GCP UI & CLI.
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
+
 [View code on Github](https://github.com/StellaWava/CSC-525-Project/tree/main)
 
 
