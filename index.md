@@ -17,8 +17,7 @@ Tools used: *Apache Kafka*,*Hadoop HDFS, Apache Spark*, *Cloud Storage and BigQu
 US vs UK vs China 
 
 <img src="https://github.com/user-attachments/assets/b3f6fff8-659a-4a8d-9666-fc667ef83deb" width="300">
-<img src = "https://github.com/user-attachments/assets/a1f96101-4934-4127-a63e-14566a142661" width="300">
-<img src="https://github.com/user-attachments/assets/78deed0f-b599-4f28-922b-c1e7ba357ac4" width="300">
+<img src = "https://github.com/user-attachments/assets/a1f96101-4934-4127-a63e-14566a142661" width="300"> <img src="https://github.com/user-attachments/assets/78deed0f-b599-4f28-922b-c1e7ba357ac4" width="300">
 
 Code and processing were executed with Vscode IDE, GCP UI & CLI.
 
