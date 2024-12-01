@@ -11,15 +11,13 @@ All code and processing were executed with Vscode IDE.
 
 ### BIG DATA SYSTEMS & ARCHITECTURE
 #### COVID-19 Data Engineering System: Real-Time & Batch Processing with Machine Learning Integration
-This was a class project, where I designed and implemented a comprehensive data engineering system to analyze COVID-19 incident records and evaluate the impact of lockdown policies. The system aimed to provide actionable insights to policymakers and emergency responders by combining real-time and batch data processing with advanced analytics and visualization.
-The architecture included:
-- *Apache Kafka*: for event brokering and real-time data ingestion.
-- *Hadoop HDFS and Apache Spark*: for real-time data preprocessing and cleaning.
-- *Cloud Storage and BigQuery* for robust data storage and warehousing.
-- *Looker Studio* for interactive dashboards and visualization.
-- *Vertex AI* for developing, training, and deploying a machine learning pipeline, leveraging _boosted trees_ for predictive modeling
-Code and processing were executed with Vscode IDE, GCP UI & CLI.
+The COVID-19 pandemic remains the pandemic of the century claiming over 7 million lives and leaving mostly many countries in devastating economic recessions.  In this project, I designed and implemented a comprehensive data engineering system to analyze post COVID-19 incident records and evaluate the efficiency of lockdown policies in mitigating the record death records during the pandemic. Designed using GCP cloud resources, the system combined real-time and batch data processing to create advanced analytics and visualizations for actionable insights. Results indicated that only *China* total lockdown policy was effective in cubbing death rates. 
+The architecture included: *Apache Kafka*: for event brokering and real-time data ingestion, *Hadoop HDFS and Apache Spark*: for real-time data preprocessing and cleaning, *Cloud Storage and BigQuery* for robust data storage and warehousing, *Looker Studio* for interactive dashboards and visualization, and finally *Vertex AI* for developing, training, and deploying a machine learning pipeline, leveraging _boosted trees_ for predictive modeling
 
+US Insights
+[https://github.com/StellaWava/CSC-525-Project/blob/main/US_lockdown.jpg] [https://github.com/StellaWava/CSC-525-Project/blob/main/China_Lockdown.jpg]
+
+Code and processing were executed with Vscode IDE, GCP UI & CLI.
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
 [View code on Github](https://github.com/StellaWava/CSC-525-Project/tree/main)
 
