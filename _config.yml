@@ -2,14 +2,16 @@ title: Stellamaris W. Nakacwa # your name (or website title) here
 
 logo: "https://github.com/StellaWava/StellaWava.github.io/blob/core/images/Stellamaris.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+<br> 
 I am a Research Scientist with 6 years of experience and exceptional abilities in computational analytics, geospatial data science, big data engineering, and distributed systems as a utility. 
 I have exposure to various data ecosystems through a variety of projects including; Energy data, agricultural data, and policy data. 
 I have a Master's degree in Geography from West Virginia University, Eberly College of Arts & Sciences, and I am currently pursuing a MSc. Computational & Applied Mathematics.
 I am previously a Program Director, ESM YouthMappers, a USAID Program, developing both maps and the next generation of geospatial workforce. 
-
+<br> 
 AWS Certified Cloud Practitioner 
 <a href="https://www.linkedin.com/in/stellawava/">View My LinkedIn Profile </a> 
 <a href="https://www.researchgate.net/profile/Stellamaris-Nakacwa/research">Find My Publications Here</a> 
+<br> 
 theme: jekyll-theme-minimal
 google_analytics: none  # your Google Analytics tracking ID here
 
