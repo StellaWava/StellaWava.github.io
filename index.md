@@ -15,9 +15,9 @@ The COVID-19 pandemic remains the pandemic of the century claiming over 7 millio
 The architecture included: *Apache Kafka*: for event brokering and real-time data ingestion, *Hadoop HDFS and Apache Spark*: for real-time data preprocessing and cleaning, *Cloud Storage and BigQuery* for robust data storage and warehousing, *Looker Studio* for interactive dashboards and visualization, and finally *Vertex AI* for developing, training, and deploying a machine learning pipeline, leveraging _boosted trees_ for predictive modeling
 
 US vs China 
+<img src="https://github.com/user-attachments/assets/b3f6fff8-659a-4a8d-9666-fc667ef83deb" width="300">
+<img src="https://github.com/user-attachments/assets/78deed0f-b599-4f28-922b-c1e7ba357ac4" width="300">
 
-![US_lockdown](https://github.com/user-attachments/assets/b3f6fff8-659a-4a8d-9666-fc667ef83deb), 
-![China_Lockdown](https://github.com/user-attachments/assets/78deed0f-b599-4f28-922b-c1e7ba357ac4)
 
 Code and processing were executed with Vscode IDE, GCP UI & CLI.
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
