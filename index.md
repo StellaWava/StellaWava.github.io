@@ -10,9 +10,9 @@ All code and processing were executed with Vscode IDE.
 [View scrapy approach on Github](https://github.com/StellaWava/web-scrapping/blob/main/dpgis/dpgis/spiders/sample.py)
 
 ### BIG DATA SYSTEMS & ARCHITECTURE
-#### COVID-19 Data Engineering System: Real-Time & Batch Processing with Machine Learning Integration
-The COVID-19 pandemic remains the pandemic of the century claiming over 7 million lives and leaving mostly many countries in devastating economic recessions.  In this project, I designed and implemented a comprehensive data engineering system to analyze post COVID-19 incident records and evaluate the efficiency of [lockdown policies](https://ourworldindata.org/metrics-explained-covid19-stringency-index) in mitigating the record death records during the pandemic. Designed using GCP cloud resources, the system combined real-time and batch data processing to create advanced analytics and visualizations for actionable insights. Results indicated that only *China* total lockdown policy was effective in cubbing death rates. 
-The architecture included: *Apache Kafka*: for event brokering and real-time data ingestion, *Hadoop HDFS and Apache Spark*: for real-time data preprocessing and cleaning, *Cloud Storage and BigQuery* for robust data storage and warehousing, *Looker Studio* for interactive dashboards and visualization, and finally *Vertex AI* for developing, training, and deploying a machine learning pipeline, leveraging _boosted trees_ for predictive modeling
+#### COVID-19Data Engineering System: How efficient were lock-down policies towards mitigating deaths?
+The COVID-19 pandemic remains the pandemic of the century claiming over 7 million lives and leaving mostly many countries in devastating economic recessions.  In this project, I designed and implemented a comprehensive data engineering system to analyze post COVID-19 incident records and evaluate the efficiency of [lockdown policies](https://ourworldindata.org/metrics-explained-covid19-stringency-index) to mitigate deaths during through the period. Designed using GCP cloud resources, the system combined real-time and batch data processing to create advanced analytics and visualizations for actionable insights. Results indicated that only *China* total lockdown policy was effective in cubbing death rates. 
+Tools used: *Apache Kafka*,*Hadoop HDFS, Apache Spark*, *Cloud Storage and BigQuery*, *Looker Studio*, and *Vertex AI* for autoML(boosted_trees).
 
 US vs UK vs China 
 
