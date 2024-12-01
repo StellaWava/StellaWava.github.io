@@ -1,7 +1,7 @@
 ##  DATA PROCESSING
 ---
 ### WEB-SCRAPING
-In this project,I am exploiting the web crawling frameworks of scrapy, and requests packages to create custom pipelines to extract Airquality geospatial data from the EPA AirNow AirQuality monitoring website. The site host a vast amount of data, but the pipeline utilises the simplest workflow to collect and store data including FeatureClasses for data science investigation taks.
+In this project,I exploited the web crawling frameworks of scrapy, and requests packages to create custom pipelines to extract Airquality geospatial data from the EPA AirNow AirQuality monitoring website. The site host a vast amount of data, but the pipeline utilises the simplest workflow to collect and store data including FeatureClasses for data science investigation taks.
 All code and processing were executed with Vscode IDE.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
@@ -10,6 +10,7 @@ All code and processing were executed with Vscode IDE.
 [View scrapy approach on Github](https://github.com/StellaWava/web-scrapping/blob/main/dpgis/dpgis/spiders/sample.py)
 
 ### BIG DATA SYSTEMS & ARCHITECTURE
+---
 #### COVID-19Data Engineering System: How efficient were lock-down policies towards mitigating deaths?
 The COVID-19 pandemic remains the pandemic of the century claiming over 7 million lives and leaving mostly many countries in devastating economic recessions.  In this project, I designed and implemented a comprehensive data engineering system to analyze post COVID-19 incident records and evaluate the efficiency of [lockdown policies](https://ourworldindata.org/metrics-explained-covid19-stringency-index) to mitigate deaths during through the period. Designed using GCP cloud resources, the system combined real-time and batch data processing to create advanced analytics and visualizations for actionable insights. Results indicated that only *China* total lockdown policy was effective in cubbing death rates. 
 Tools used: *Apache Kafka*,*Hadoop HDFS, Apache Spark*, *Cloud Storage and BigQuery*, *Looker Studio*, and *Vertex AI* for autoML(boosted_trees).
@@ -25,9 +26,9 @@ Code and processing were executed with Vscode IDE, GCP UI & CLI.
 [View code and other results on Github](https://github.com/StellaWava/CSC-525-Project/tree/main)
 
 
-##  What about Alternative fuel Stations and fuel Distribution in USA, North America?
+## DATA ENGINEERING & MINING 
 ---
-### Project Brief
+### What about Alternative fuel Stations and fuel Distribution in USA, North America?
 
 The Alternative Fuels Data Center (AFDC) maintains collects and stores data on alternative fueling stations near you or on a route, and more. In this project, I explore this data and derive meaningful information through a using cluster algorithm that can provide you insights to inform your car fuel model purchase or driving decisions, not excluding business cases.
 
