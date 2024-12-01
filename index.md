@@ -14,16 +14,15 @@ All code and processing were executed with Vscode IDE.
 The COVID-19 pandemic remains the pandemic of the century claiming over 7 million lives and leaving mostly many countries in devastating economic recessions.  In this project, I designed and implemented a comprehensive data engineering system to analyze post COVID-19 incident records and evaluate the efficiency of [lockdown policies](https://ourworldindata.org/metrics-explained-covid19-stringency-index) to mitigate deaths during through the period. Designed using GCP cloud resources, the system combined real-time and batch data processing to create advanced analytics and visualizations for actionable insights. Results indicated that only *China* total lockdown policy was effective in cubbing death rates. 
 Tools used: *Apache Kafka*,*Hadoop HDFS, Apache Spark*, *Cloud Storage and BigQuery*, *Looker Studio*, and *Vertex AI* for autoML(boosted_trees).
 
-US vs UK vs China 
+US vs China 
 
-<img src="https://github.com/user-attachments/assets/b3f6fff8-659a-4a8d-9666-fc667ef83deb" width="300">
-<img src = "https://github.com/user-attachments/assets/a1f96101-4934-4127-a63e-14566a142661" width="300"> <img src="https://github.com/user-attachments/assets/78deed0f-b599-4f28-922b-c1e7ba357ac4" width="300">
+<img src="https://github.com/user-attachments/assets/b3f6fff8-659a-4a8d-9666-fc667ef83deb" width="300"> <img src="https://github.com/user-attachments/assets/78deed0f-b599-4f28-922b-c1e7ba357ac4" width="300">
 
 Code and processing were executed with Vscode IDE, GCP UI & CLI.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Vscode)](#)
 
-[View code on Github](https://github.com/StellaWava/CSC-525-Project/tree/main)
+[View code and other results on Github](https://github.com/StellaWava/CSC-525-Project/tree/main)
 
 
 ##  What about Alternative fuel Stations and fuel Distribution in USA, North America?
