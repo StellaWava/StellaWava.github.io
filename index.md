@@ -11,7 +11,7 @@ All code and processing were executed with Vscode IDE.
 
 ---
 
-### BIG DATA SYSTEMS & ARCHITECTURE
+## BIG DATA SYSTEMS & ARCHITECTURE
 
 #### COVID-19Data Engineering System: How efficient were lock-down policies towards mitigating deaths?
 The COVID-19 pandemic remains the pandemic of the century claiming over 7 million lives and leaving mostly many countries in devastating economic recessions.  In this project, I designed and implemented a comprehensive data engineering system to analyze post COVID-19 incident records and evaluate the efficiency of [lockdown policies](https://ourworldindata.org/metrics-explained-covid19-stringency-index) to mitigate deaths during through the period. Designed using GCP cloud resources, the system combined real-time and batch data processing to create advanced analytics and visualizations for actionable insights. Results indicated that only *China* total lockdown policy was effective in cubbing death rates. 
