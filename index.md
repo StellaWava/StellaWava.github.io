@@ -35,12 +35,14 @@ Code and processing were executed with Vscode IDE, GCP UI & CLI.
 #### Exploring Alternative Fuel Stations & EV Charging Trends
 The Alternative Fuels Data Center (AFDC) collects and stores data on alternative fueling stations across the U.S., providing vital information for consumers and businesses alike. In this project, I dive into this rich dataset, using _forecasting algorithms_ to uncover meaningful insights that can inform consumer decisions, including choosing the right car fuel model or planning driving routes. Additionally, these insights can be valuable for business strategies, such as optimizing station placement and infrastructure investments.
 
-a) Types of EV Charging Stations & Their Distribution 
+a) Types of EV Charging Stations & Their Distribution:
+
 The majority of electric vehicle (ELEC) stations utilize Type J1772 connectors, with Level 2 charging available at over 2,740 stations. Figure 3 shows the distribution of these charging stations across the U.S., with Los Angeles leading in the number of Level 2 chargers. This data reveals important regional patterns in EV infrastructure development.
 
 <img src="images/ev2.jpg?raw=true" />
 
-b) Predicting the Future Growth of ELEC Stations 
+b) Predicting the Future Growth of ELEC Stations: 
+
 Using the _Prophet Model_, I analyzed and forecasted the future trend of ELEC stations. Since 2010, there has been a significant rise in station openings due to the growing popularity of electric vehicles. Figure 4 illustrates this historical surge, while Figure 7 suggests that the rate of new station openings may slow in the coming years.
 
 <img src="images/elecforecast.png?raw=true" width="500">
