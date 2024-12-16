@@ -40,16 +40,6 @@ The Alternative Fuels Data Center (AFDC) maintains collects and stores data on a
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 [View code on Github](https://github.com/StellaWava/StellaWava.github.io/blob/core/projects/fuels.ipynb)
 
-### Examining Fuel Station Distribution by Fuel Code and State, using the clean data
-Electric stations(ELEC) indicate the highest record while hydrogen stations(HY) indicate the least number of records in the dataset. States with highest number of Stations include California with  > 800 electric stations
-and Minnesota with almost 300 ethanol and gasoline (E85) fuel stations.  
-
-<img src="images/image1fuel.JPG?raw=true" />
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=)](#) 
-
-
-View code on Github
 
 ### What Level of Charging do Electric (ELEC) StationS provide?: A deep dive into the types of charging and connectors the electric vehicles have access to. 
 
@@ -69,16 +59,6 @@ These stations have been established since the 1970's. However, a larger volume 
 <img src="images/overtime11.png?raw=true" /> <img src="images/overtime22.png?raw=true" />
 
 View code on Github
-
-### Optimal Placement Analysis: Using Cluster Analysis
-The project purpose is to apply a well known algorithm to understand our data.I used K-Means clustering methods to identify clusters of current stations and then analyze gaps. Additionally, demand prediction was handled using regression models.
-
-**Figure 5: Clusters of Fuel Stations across the Contiguous USA**
-<img src="images/station_clusters.png?raw=true"/>
-
-In Figure 6, I determined the areas with low coverage where new fuel stations would very suitable. This prediction however, only relies on the current clusters but inclusion of datasets such as traffic and population would enhance the model to provide more precise locations for station placement. 
-**Figure 6: Optimal areas for New Station Placement**
-<img src="images/new_station_suggest.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
